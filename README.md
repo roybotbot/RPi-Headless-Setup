@@ -64,4 +64,4 @@ Routers cycle through IP addresses and unless you instruct your router to use th
 You can now connect to your RPi and use it via command line from another computer without needing a keyboard or monitor connected to your RPi. 
 
 #### Acknowledgements
-Inspiration and content for this guide comes form this Youtube video by Brian Lough: (A Truly Headless Setup for your Pi)[https://www.youtube.com/watch?v=gOLnIrqmPQc]
+Inspiration and content for this guide comes form this Youtube video by Brian Lough: [A Truly Headless Setup for your Pi](https://www.youtube.com/watch?v=gOLnIrqmPQc)
