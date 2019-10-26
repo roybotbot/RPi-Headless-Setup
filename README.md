@@ -58,4 +58,7 @@ This guide will reference MacOS computers and terminology, but the instructions 
 10. You’ll see a message regarding security and RSA keys. Type “yes” and hit enter to proceed. You’ve now accessed your RPi via ssh!
 11. It’s important to change the default password. While accessing your RPi via ssh, type the following and hit enter `passwd` It will ask you for a new password. Don’t forget it!
 
+### Configuring a Static IP Address for the RPi
+Routers cycle through IP addresses and unless you instruct your router to use the same IP address with a device, the IP address might change at some point. Instructions on how to do this very from router to router. Do a search for "how to set static IP address [your router model goes here]" and you should find instructions on how to set a static IP address for the RPi.
+
 You can now connect to your RPi and use it via command line from another computer without needing a keyboard or monitor connected to your RPi. 
