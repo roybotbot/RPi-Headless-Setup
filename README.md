@@ -62,3 +62,6 @@ This guide will reference MacOS computers and terminology, but the instructions 
 Routers cycle through IP addresses and unless you instruct your router to use the same IP address with a device, the IP address might change at some point. Instructions on how to do this very from router to router. Do a search for "how to set static IP address [your router model goes here]" and you should find instructions on how to set a static IP address for the RPi.
 
 You can now connect to your RPi and use it via command line from another computer without needing a keyboard or monitor connected to your RPi. 
+
+#### Acknowledgements
+Inspiration and content for this guide comes form this Youtube video by Brian Lough: (A Truly Headless Setup for your Pi)[https://www.youtube.com/watch?v=gOLnIrqmPQc]
