@@ -52,8 +52,8 @@ This guide will reference MacOS computers and terminology, but the instructions 
 4. Close the “Fetchers” window.
 5. Insert the microSD card into the RPi.
 6. If you are *not* using Wifi with your RPi, connect it to your router with an ethernet cable and power it on. If you *are* using Wifi with your RPi, power it on and wait a minute for it to boot up.
-7. Press /Play/ in Angry IP Scanner. Once it’s done scanning you’ll see an entry for the RPi along with its IP address. Take note of this IP address. As an example will say it is 192.168.1.25
-8. Open Terminal and type the following and hit enter: `ssh pi@192.168.1.25` 
+7. Press /Play/ in Angry IP Scanner. Once it’s done scanning you’ll see an entry for the RPi along with its IP address. Take note of this IP address. As an example will say it is 192.168.1.X (your IP address will be different, it could be 10.0.0.X).
+8. Open Terminal and type the following and hit enter: `ssh pi@192.168.1.X` 
 9. Enter the password `raspberry` and hit enter. 
 10. You’ll see a message regarding security and RSA keys. Type “yes” and hit enter to proceed. You’ve now accessed your RPi via ssh!
 11. It’s important to change the default password. While accessing your RPi via ssh, type the following and hit enter `passwd` It will ask you for a new password. Don’t forget it!
